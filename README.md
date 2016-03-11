@@ -1,8 +1,8 @@
 ---
 ####Title: "Getting and Cleaning Data Final Project"
-####author: "Shengyu Chen"
-####date: "March 9, 2016"
-####output: html_document
+####Author: "Shengyu Chen"
+####Date: "March 9, 2016"
+####Output: html_document
 ---
 
 ####Project Goal:
