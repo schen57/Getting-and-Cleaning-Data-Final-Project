@@ -1,5 +1,3 @@
-# Getting-and-Cleaning-Data-Final-Project
-
 ---
 ####Title: "Getting and Cleaning Data Final Project"
 ####author: "Shengyu Chen"
@@ -7,16 +5,16 @@
 ####output: html_document
 ---
 
-Project Goal:
-###For Coursera Getting and Cleaning Data Final Project
+####Project Goal:
+####For Coursera Getting and Cleaning Data Final Project
 
-Reading the training data into R
-Reading the test data into R
-Reading features dataset into R
-Reading activity training dataset into R
-Reading activity test dataset into R
-Reading subject train dataset into R
-Reading activity label dataset into R
+1. Reading the training data into R
+2. Reading the test data into R
+3. Reading features dataset into R
+4. Reading activity training dataset into R
+5. Reading activity test dataset into R
+6. Reading subject train dataset into R
+7. Reading activity label dataset into R
 ```{r}
 setwd("C:/Users/Shengyu Chen/Dropbox/Academics/Coursera/Data Science Specialization/Getting and Cleaning Data/Final Project/UCI HAR Dataset")
 #----
