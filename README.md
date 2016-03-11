@@ -1,16 +1,14 @@
 # Getting-and-Cleaning-Data-Final-Project
-Getting and Cleaning data final
+
 ---
-title: "Getting and Cleaning Data Final Project"
-author: "Shengyu Chen"
-date: "March 9, 2016"
-output: html_document
+##title: "Getting and Cleaning Data Final Project"
+###author: "Shengyu Chen"
+###date: "March 9, 2016"
+###output: html_document
 ---
-#Run Analysis 
-###Getting and Cleaning Data - Final Project
 
 Project Goal:
-###
+###For Coursera Getting and Cleaning Data Final Project
 
 Reading the training data into R
 Reading the test data into R
